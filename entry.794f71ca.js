@@ -1,4 +1,4 @@
-import{r as i}from"./index.ed373d49.js";var m={exports:{}},a={};/**
+import{r as i}from"./chunks/chunk.ed373d49.js";var m={exports:{}},a={};/**
  * @license React
  * react-jsx-runtime.production.min.js
  *
